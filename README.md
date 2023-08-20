@@ -5,3 +5,6 @@
 * [Golang](https://go.dev/doc/install)
 * [Golang-migrate](https://github.com/golang-migrate/migrate/tree/master/cmd/migrate)
 * [sqlc](https://sqlc.dev/)
+* [lib/pq](https://github.com/lib/pq)
+* [stretchr/testify](https://github.com/stretchr/testify)
+
